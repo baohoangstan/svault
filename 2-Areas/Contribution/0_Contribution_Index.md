@@ -1,15 +1,43 @@
 # Contribution
 
-Purpose and giving back.
+> Purpose, giving back, and impact beyond yourself
 
-## Impact
+## Overview
 
-*How do you want to contribute to the world?*
+This area covers:
+- **Volunteering**: organizations, causes, service
+- **Mentorship**: helping others grow
+- **Creative work**: sharing art, writing, ideas
+- **Advocacy**: causes you support, activism
+- **Legacy**: long-term impact, what you'll leave behind
 
-## Current
+---
 
-*What are you doing now?*
+## Current Focus
 
-## Open Tasks
+*How am I contributing right now? What impact am I making?*
 
-- [ ] Add your first contribution task #area/contribution
+---
+
+## Causes & Organizations
+
+*Causes you care about, organizations you support*
+
+---
+
+## Related Projects
+
+*Link to any active projects in [[1-Projects]] related to contribution*
+
+---
+
+## Tasks
+
+```dataview
+TASK
+WHERE contains(text, "#area/contribution") AND !completed
+```
+
+---
+
+*This is an ongoing area — it has no end date, just continuous attention.*

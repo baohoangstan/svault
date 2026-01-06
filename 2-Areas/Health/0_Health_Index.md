@@ -1,19 +1,43 @@
 # Health
 
-Physical and mental wellness.
+> Physical and mental wellness — the foundation of everything
 
-## Current State
+## Overview
 
-*How are you feeling? What's working? What needs attention?*
+This area covers:
+- **Physical health**: fitness, nutrition, sleep, medical care
+- **Mental health**: mindfulness, therapy, stress management
+- **Energy management**: rest, recovery, boundaries
 
-## Habits
+---
 
-*Routines that support your health*
+## Current Focus
 
-## Goals
+*What health practices or goals am I working on right now?*
 
-*Where do you want to be?*
+---
 
-## Open Tasks
+## Resources
 
-- [ ] Add your first health-related task #area/health
+- [[3-Resources]] — Health-related reference materials
+- Medical contacts and providers
+- Fitness routines and trackers
+
+---
+
+## Related Projects
+
+*Link to any active projects in [[1-Projects]] related to health*
+
+---
+
+## Tasks
+
+```dataview
+TASK
+WHERE contains(text, "#area/health") AND !completed
+```
+
+---
+
+*This is an ongoing area — it has no end date, just continuous attention.*

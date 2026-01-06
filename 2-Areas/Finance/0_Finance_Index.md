@@ -1,15 +1,43 @@
 # Finance
 
-Money and investments.
+> Money, investments, and financial security
 
-## Current State
+## Overview
 
-*Overview of your financial situation*
+This area covers:
+- **Income**: salary, side income, revenue streams
+- **Expenses**: budget, spending, optimization
+- **Savings**: emergency fund, short-term goals
+- **Investments**: retirement, long-term wealth
+- **Financial goals**: targets, milestones
 
-## Goals
+---
 
-*What are you working toward?*
+## Current Focus
 
-## Open Tasks
+*What financial matters need attention right now?*
 
-- [ ] Add your first finance task #area/finance
+---
+
+## Accounts & Tools
+
+*Track accounts, budgeting tools, investment platforms*
+
+---
+
+## Related Projects
+
+*Link to any active projects in [[1-Projects]] related to finance*
+
+---
+
+## Tasks
+
+```dataview
+TASK
+WHERE contains(text, "#area/finance") AND !completed
+```
+
+---
+
+*This is an ongoing area — it has no end date, just continuous attention.*

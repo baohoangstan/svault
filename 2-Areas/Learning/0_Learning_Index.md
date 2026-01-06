@@ -1,19 +1,43 @@
 # Learning
 
-Skills and education.
+> Skills, education, and intellectual growth
 
-## Currently Learning
+## Overview
 
-*What are you studying or practicing?*
+This area covers:
+- **Skill development**: new abilities, practice, mastery
+- **Courses & programs**: formal education, online learning
+- **Reading**: books, articles, papers
+- **Curiosity**: exploration, experimentation
+- **Teaching**: sharing knowledge with others
 
-## Want to Learn
+---
 
-*Future interests*
+## Current Focus
 
-## Resources
+*What am I learning right now? What skills am I developing?*
 
-*Books, courses, mentors*
+---
 
-## Open Tasks
+## Learning Queue
 
-- [ ] Add your first learning task #area/learning
+*Courses, books, or skills you want to explore*
+
+---
+
+## Related Projects
+
+*Link to any active projects in [[1-Projects]] related to learning*
+
+---
+
+## Tasks
+
+```dataview
+TASK
+WHERE contains(text, "#area/learning") AND !completed
+```
+
+---
+
+*This is an ongoing area — it has no end date, just continuous attention.*

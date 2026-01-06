@@ -1,19 +1,43 @@
 # Recreation
 
-Fun, hobbies, rest.
+> Fun, hobbies, rest, and joy
 
-## Hobbies
+## Overview
 
-*What do you enjoy?*
+This area covers:
+- **Hobbies**: activities you do for enjoyment
+- **Entertainment**: movies, games, music, art
+- **Travel**: trips, exploration, adventure
+- **Rest**: downtime, relaxation, sabbath
+- **Play**: unstructured fun, creativity
 
-## Rest
+---
 
-*How do you recharge?*
+## Current Focus
 
-## Wishlist
+*What brings joy right now? Any upcoming trips or activities?*
 
-*Things you want to try*
+---
 
-## Open Tasks
+## Hobbies & Interests
 
-- [ ] Add your first recreation task #area/recreation
+*Track your hobbies, what you're exploring, gear/tools you use*
+
+---
+
+## Related Projects
+
+*Link to any active projects in [[1-Projects]] related to recreation*
+
+---
+
+## Tasks
+
+```dataview
+TASK
+WHERE contains(text, "#area/recreation") AND !completed
+```
+
+---
+
+*This is an ongoing area — it has no end date, just continuous attention.*

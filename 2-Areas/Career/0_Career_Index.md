@@ -1,19 +1,42 @@
 # Career
 
-Work and professional identity.
+> Work, professional identity, and impact
 
-## Current Role
+## Overview
 
-*What do you do? Where are you headed?*
+This area covers:
+- **Current role**: responsibilities, goals, performance
+- **Skills**: development, learning, mastery
+- **Network**: colleagues, mentors, industry connections
+- **Direction**: career trajectory, opportunities
 
-## Projects
+---
 
-*Active work — link to [[1-Projects]]*
+## Current Focus
 
-## Growth
+*What am I working on professionally? Any key initiatives or transitions?*
 
-*Skills, goals, aspirations*
+---
 
-## Open Tasks
+## Professional Development
 
-- [ ] Add your first career task #area/career
+*Skills to develop, courses, certifications, reading*
+
+---
+
+## Related Projects
+
+*Link to any active projects in [[1-Projects]] related to career*
+
+---
+
+## Tasks
+
+```dataview
+TASK
+WHERE contains(text, "#area/career") AND !completed
+```
+
+---
+
+*This is an ongoing area — it has no end date, just continuous attention.*
